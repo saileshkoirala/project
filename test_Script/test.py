@@ -75,10 +75,10 @@ def delete():
     time.sleep(5) 
 
 view()
-# addNew()
-# update()
-# delete()
-# print("Test over")
+addNew()
+update()
+delete()
+print("Test over")
 time.sleep(5)
 driver.quit()
 
